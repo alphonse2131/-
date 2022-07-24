@@ -1,0 +1,91 @@
+{
+  "name": "1.20.1",
+  "author": "2912842072@qq.com",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://gitee.com/afs666/wdsjntsd/raw/master",
+  "files": [
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "2c37f48e498bc3bf308ad53c6e751f7fb2548dde"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "cbb2e60b4a6c5400267c3edeff0e600f0188e8e6"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "9b4be92db18c14e25afcc69a49f7ae06e987c2df"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "50a335bed1c78ce30219c639c0b730e5d5f0f419"
+    },
+    {
+      "path": "config/forge-common.toml",
+      "hash": "8a9d760e17ef5a22db57516c876c3997dae1b5fe"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "1b342e655a70a88a57f3ced88f32745f8d1ad7ee"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "b6c3464529875d59372e2c07ed106f55cf049edc"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "269aafe7ebf73e8550fc9a2958f6dbd1e5c431b2"
+    },
+    {
+      "path": "config/jei-client.toml",
+      "hash": "643ded1e337afbe75c73ea1739eb55b545f948c7"
+    },
+    {
+      "path": "config/quark-common.toml",
+      "hash": "bbd0c35e6eca6b0bfd9f97386238dc74eeebeb37"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID",
+      "hash": "ff41cd3a567730b93a2ec1baa1896dd2ca483114"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinLoader.json",
+      "hash": "ec1f677d5099b24b285972ee657c47a08762138c"
+    },
+    {
+      "path": "mods/AutoRegLib-1.6-49.jar",
+      "hash": "921cf73b9d31bce5d332115a5144c3fca2010f93"
+    },
+    {
+      "path": "mods/CustomSkinLoader_ForgeLegacy-14.14-SNAPSHOT-325.jar",
+      "hash": "a9f7808e939e84a676b83f7f7caa9d228993c10b"
+    },
+    {
+      "path": "mods/FarmersDelight-1.16.5-0.6.0.jar",
+      "hash": "006e441f80aa2c97787cf9b968926a6b2eb22470"
+    },
+    {
+      "path": "mods/jei-1.16.5-7.7.1.152.jar",
+      "hash": "3cc5fb94d2225af367a04fbc8b288644d6e8ac1b"
+    },
+    {
+      "path": "mods/Quark-r2.4-322.jar",
+      "hash": "c314a534737baba9416c4947e15f81c6243f9844"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.16.5"
+    },
+    {
+      "id": "forge",
+      "version": "36.2.39"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_G8"
+    }
+  ]
+}
